@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T08:16:10.484Z",
+      "notes": "q",
+      "position": {
+        "lat": "39.9918670739303",
+        "lng": "-0.07501602172851564"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-23T08:34:47.539Z",
+      "notes": "q",
+      "position": {
+        "lat": "13.021621446640614",
+        "lng": "77.54390716552736"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-23T14:56:52.934Z",
+      "notes": "e",
+      "position": {
+        "lat": "40.03365122453463",
+        "lng": "-0.024568521617860387"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Roddam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-08-24T17:54:39.686Z",
+      "notes": "d",
+      "position": {
+        "lat": "13.960836463513704",
+        "lng": "77.48107910156251"
+      },
+      "id": 4
+    }
+  ]
+}
